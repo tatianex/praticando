@@ -1,0 +1,13 @@
+body {
+  background-color: #FFFFFF;
+  font-family: 'Source Serif Pro', serif;
+  text-align: center;
+  font-size: large;
+  margin: 0px;
+}
+
+header { 
+  font-size: 80px;
+  font-family: 'Barriecito', cursive;
+  text-align: center;
+}
