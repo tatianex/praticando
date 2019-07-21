@@ -11,3 +11,16 @@ header {
   font-family: 'Barriecito', cursive;
   text-align: center;
 }
+
+a:link, a:visited {
+  background-color: #1C1C1C;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: #FF0000;
+}
