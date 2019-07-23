@@ -12,6 +12,10 @@ header {
   text-align: center;
 }
 
+p {
+padding: 20px;
+}
+
 a:link, a:visited {
   background-color: #1C1C1C;
   color: white;
