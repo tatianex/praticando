@@ -1,6 +1,9 @@
 body {
   background-color: #FFFFFF;
   font-family: 'Source Serif Pro', serif;
+  margin-left: 20%;
+  margin-right: 20%;
+  padding: 10px;
   text-align: center;
   font-size: large;
 }
@@ -9,11 +12,6 @@ header {
   font-size: 80px;
   font-family: 'Barriecito', cursive;
   text-align: center;
-}
-
-p {
-  border: 30px;
-  padding: 45px;
 }
 
 a:link, a:visited {
