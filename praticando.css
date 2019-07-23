@@ -3,7 +3,6 @@ body {
   font-family: 'Source Serif Pro', serif;
   text-align: center;
   font-size: large;
-  margin: 0px;
 }
 
 header { 
@@ -13,7 +12,8 @@ header {
 }
 
 p {
-padding: 20px;
+  border: 30px;
+  padding: 30px;
 }
 
 a:link, a:visited {
